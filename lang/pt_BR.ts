@@ -338,14 +338,14 @@
     </message>
     <message>
         <source>Failed to create initial configuration in `%1&apos;! Check if the current user has write permission over that path and at least read permission over `%2&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao criar a configuração inicial em `%1&apos;! Verifique se o usuário atual possui permissão de leitura e escrita no diretório `%2&apos;.</translation>
     </message>
 </context>
 <context>
     <name>BaseConfigWidget</name>
     <message>
         <source>A backup of the previous settings was saved into &lt;strong&gt;%1&lt;/strong&gt;!</source>
-        <translation type="unfinished"></translation>
+        <translation>O Baclup das configurções anteriores estão salvo em &lt;strong&gt;%1&lt;/strong&gt;!</translation>
     </message>
 </context>
 <context>
@@ -368,7 +368,7 @@
     </message>
     <message>
         <source>%1 properties</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 propriedades</translation>
     </message>
 </context>
 <context>
@@ -521,7 +521,7 @@
     <name>BaseObjectView</name>
     <message>
         <source>SQL off</source>
-        <translation type="unfinished"></translation>
+        <translation>SQL desativado</translation>
     </message>
 </context>
 <context>
@@ -616,11 +616,11 @@ This will disable the code of all child and referrer objects.</source>
     <name>BaseTableView</name>
     <message>
         <source>Toggles the extended attributes display</source>
-        <translation type="unfinished"></translation>
+        <translation>Alternar a exibição de atributos estendidos</translation>
     </message>
     <message>
         <source>Connected rels: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Conectado rels: %1</translation>
     </message>
 </context>
 <context>
@@ -702,7 +702,7 @@ This will disable the code of all child and referrer objects.</source>
     <name>BulkDataEditWidget</name>
     <message>
         <source>Bulk data edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Edição de dados em massa</translation>
     </message>
 </context>
 <context>
@@ -833,11 +833,11 @@ This will disable the code of all child and referrer objects.</source>
     </message>
     <message>
         <source>Edit sequence</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar sequência</translation>
     </message>
     <message>
         <source>Identity:</source>
-        <translation type="unfinished"></translation>
+        <translation>Identidade</translation>
     </message>
 </context>
 <context>
@@ -872,27 +872,28 @@ This will disable the code of all child and referrer objects.</source>
     </message>
     <message>
         <source>Relationships</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Relacionamentos</translation>
     </message>
     <message>
         <source>Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aparência</translation>
     </message>
     <message>
         <source>Connections</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Conexões</translation>
     </message>
     <message>
         <source>Snippets</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Trechos</translation>
     </message>
     <message>
         <source>In some cases restore the default settings related to it may solve the problem. Would like to do that?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">102/5000
+Em alguns casos, restaurar as configurações padrão relacionadas a ele pode resolver o problema. Gostaria de fazer isso?</translation>
     </message>
     <message>
         <source>Restore</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Restaurar</translation>
     </message>
 </context>
 <context>
@@ -3048,46 +3049,46 @@ Ref. column(s): %2</source>
     </message>
     <message>
         <source>Attributes</source>
-        <translation type="unfinished">Atributos</translation>
+        <translation>Atributos</translation>
     </message>
     <message>
         <source>Not null</source>
-        <translation type="unfinished"></translation>
+        <translation>Não nulo</translation>
     </message>
     <message>
         <source>Check constraints</source>
-        <translation type="unfinished"></translation>
+        <translation>Verificar restrinções</translation>
     </message>
     <message>
         <source>Expression:</source>
-        <translation type="unfinished">Expressão:</translation>
+        <translation>Expressão:</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Nome</translation>
+        <translation>Nome</translation>
     </message>
     <message>
         <source>Expression</source>
-        <translation type="unfinished">Expressão</translation>
+        <translation>Expressão</translation>
     </message>
 </context>
 <context>
     <name>DonateWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Formulário</translation>
+        <translation>Formulário</translation>
     </message>
     <message>
         <source>Donate to pgModeler</source>
-        <translation type="unfinished"></translation>
+        <translation>Doar para pgModeler</translation>
     </message>
     <message>
         <source>Hide this widget</source>
-        <translation type="unfinished"></translation>
+        <translation>Ocultar este windget</translation>
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>...</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;pgModeler is brought to you thanks to a &lt;span style=&quot; font-style:italic;&quot;&gt;great effort to create and distribute a quality product&lt;/span&gt;. This project is reaching out levels of maturity never imagined. All this is the result of a joint work between its author and the &lt;span style=&quot; font-weight:600;&quot;&gt;Open Source community&lt;/span&gt;. &lt;br/&gt;&lt;br/&gt;This software has a long way to go yet and with your help we&apos;ll keep maintaining the good job and bringing new improvements on each release. If you did like pgModeler and thinks it deserves a contribution please make a donation!&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -3095,7 +3096,7 @@ Ref. column(s): %2</source>
     </message>
     <message>
         <source>I want to help!</source>
-        <translation type="unfinished"></translation>
+        <translation>Eu quero ajudar!</translation>
     </message>
 </context>
 <context>
@@ -3185,15 +3186,15 @@ Ref. column(s): %2</source>
     <name>EventTriggerWidget</name>
     <message>
         <source>Event:</source>
-        <translation type="unfinished">Evento:</translation>
+        <translation>Evento:</translation>
     </message>
     <message>
         <source>Function:</source>
-        <translation type="unfinished">Função:</translation>
+        <translation>Função:</translation>
     </message>
     <message>
         <source>Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtro</translation>
     </message>
     <message>
         <source>Tag:</source>
@@ -3201,7 +3202,7 @@ Ref. column(s): %2</source>
     </message>
     <message>
         <source>Tag command</source>
-        <translation type="unfinished"></translation>
+        <translation>Comando Tag</translation>
     </message>
 </context>
 <context>
@@ -4839,14 +4840,14 @@ Message returned by the DBMS: `%1&apos;</source>
     <name>GenericSQLWidget</name>
     <message>
         <source>SQL code</source>
-        <translation type="unfinished"></translation>
+        <translation>código SQL</translation>
     </message>
 </context>
 <context>
     <name>HintTextWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Formulário</translation>
+        <translation>Formulário</translation>
     </message>
 </context>
 <context>
@@ -4885,7 +4886,7 @@ Message returned by the DBMS: `%1&apos;</source>
     </message>
     <message>
         <source>Buffering</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Carregando</translation>
     </message>
     <message>
         <source>Predicate:</source>
@@ -4904,7 +4905,7 @@ Message returned by the DBMS: `%1&apos;</source>
     </message>
     <message>
         <source>Validator Func.:</source>
-        <translation type="unfinished"></translation>
+        <translation>Func. Validar:</translation>
     </message>
     <message>
         <source>Handler Func.:</source>
@@ -6546,11 +6547,11 @@ p, li { white-space: pre-wrap; }
     <name>ModelNavigationWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Formulário</translation>
+        <translation>Formulário</translation>
     </message>
     <message>
         <source>Previous model</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelo anterior</translation>
     </message>
     <message>
         <source>Ctrl+Left</source>
@@ -6558,7 +6559,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Next model</source>
-        <translation type="unfinished"></translation>
+        <translation>Proximo modelo</translation>
     </message>
     <message>
         <source>Ctrl+Right</source>
@@ -6566,7 +6567,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Close model</source>
-        <translation type="unfinished">Fechar modelo</translation>
+        <translation>Fechar modelo</translation>
     </message>
     <message>
         <source>...</source>
@@ -6693,7 +6694,8 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Failed to generate the overview image.
 The requested size %1 x %2 was too big and there was not enough memory to allocate!</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao gerar a imagem de visão geral.
+O tamanho solicitado %1 x %2 era muito grande e não havia memória suficiente para alocar!</translation>
     </message>
 </context>
 <context>
@@ -6732,22 +6734,22 @@ The requested size %1 x %2 was too big and there was not enough memory to alloca
     </message>
     <message>
         <source>Modified</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Modificado</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tamanho</translation>
     </message>
 </context>
 <context>
     <name>ModelValidationHelper</name>
     <message>
         <source>There are pending errors! SQL validation will not be executed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Há erros pendentes! A validação do SQL não será executada.</translation>
     </message>
     <message>
         <source>Operation canceled by the user.</source>
-        <translation type="unfinished"></translation>
+        <translation>Operação cancelada pelo usuário.</translation>
     </message>
 </context>
 <context>
@@ -7320,27 +7322,27 @@ The requested size %1 x %2 was too big and there was not enough memory to alloca
     <name>ModelsDiffHelper</name>
     <message>
         <source>Processing object `%1&apos; (%2)...</source>
-        <translation type="unfinished"></translation>
+        <translation>Processando objeto `%1&apos; (%2)...</translation>
     </message>
     <message>
         <source>Skipping object `%1&apos; (%2)...</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulando objeto `%1&apos; (%2)...</translation>
     </message>
     <message>
         <source>Processing diff infos...</source>
-        <translation type="unfinished"></translation>
+        <translation>Processando inoformações diversas...</translation>
     </message>
     <message>
         <source>Processing `%1&apos; info for object `%2&apos; (%3)...</source>
-        <translation type="unfinished"></translation>
+        <translation>Processando `%1&apos; informações do objeto `%2&apos; (%3)...</translation>
     </message>
     <message>
         <source>No differences between the model and database.</source>
-        <translation type="unfinished"></translation>
+        <translation>Não existe diferenças entre o modelo e o banco de dados.</translation>
     </message>
     <message>
         <source>Preparing diff code...</source>
-        <translation type="unfinished"></translation>
+        <translation>Preparando código de diferença</translation>
     </message>
 </context>
 <context>
@@ -7701,7 +7703,7 @@ The requested size %1 x %2 was too big and there was not enough memory to alloca
     </message>
     <message>
         <source>Object&apos;s dependencies &amp; references</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dependências e referências de objetos</translation>
     </message>
     <message>
         <source>ID</source>
@@ -7709,15 +7711,15 @@ The requested size %1 x %2 was too big and there was not enough memory to alloca
     </message>
     <message>
         <source>Exclude indirect dependencies</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Excluir dependências indiretas</translation>
     </message>
     <message>
         <source>Include indirect references</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Incluir referências indiretas</translation>
     </message>
     <message>
         <source>This object does not exists anymore. The dependencies and references listing are disabled.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Este objeto não existe mais. A lista de dependências e referências está desativada.</translation>
     </message>
 </context>
 <context>
@@ -7835,23 +7837,23 @@ The requested size %1 x %2 was too big and there was not enough memory to alloca
     <name>ObjectRenameWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Formulário</translation>
+        <translation>Formulário</translation>
     </message>
     <message>
         <source>....</source>
-        <translation type="unfinished"></translation>
+        <translation>....</translation>
     </message>
     <message>
         <source>to:</source>
-        <translation type="unfinished">para:</translation>
+        <translation>para:</translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation type="unfinished">Renomear</translation>
+        <translation>Renomear</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
 </context>
 <context>
@@ -7870,7 +7872,7 @@ The requested size %1 x %2 was too big and there was not enough memory to alloca
     </message>
     <message>
         <source>Select %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecionado %1</translation>
     </message>
 </context>
 <context>
@@ -7976,7 +7978,7 @@ The requested size %1 x %2 was too big and there was not enough memory to alloca
     <name>OperationList</name>
     <message>
         <source>(invalid object)</source>
-        <translation type="unfinished"></translation>
+        <translation>(objeto inválido)</translation>
     </message>
 </context>
 <context>
@@ -8974,11 +8976,11 @@ in pgModeler&apos;s graphical interface. All available options are described bel
     </message>
     <message>
         <source>Command:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Comando</translation>
     </message>
     <message>
         <source>Permissive</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Permissivo</translation>
     </message>
     <message>
         <source>Roles</source>
@@ -8986,15 +8988,15 @@ in pgModeler&apos;s graphical interface. All available options are described bel
     </message>
     <message>
         <source>Expressions</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Expressões</translation>
     </message>
     <message>
         <source>USING:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Usando</translation>
     </message>
     <message>
         <source>CHECK:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Verifica</translation>
     </message>
     <message>
         <source>Name</source>
@@ -9525,7 +9527,7 @@ in pgModeler&apos;s graphical interface. All available options are described bel
     <name>ResultSetModel</name>
     <message>
         <source>[binary data]</source>
-        <translation type="unfinished"></translation>
+        <translation>[dados binário]</translation>
     </message>
 </context>
 <context>
@@ -9631,7 +9633,7 @@ in pgModeler&apos;s graphical interface. All available options are described bel
     </message>
     <message>
         <source>Commands</source>
-        <translation type="unfinished"></translation>
+        <translation>Comandos</translation>
     </message>
 </context>
 <context>
@@ -9912,7 +9914,7 @@ in pgModeler&apos;s graphical interface. All available options are described bel
     </message>
     <message>
         <source>Current position of the mouse in the canvas</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Posição atual do mouse na tela</translation>
     </message>
     <message>
         <source>-</source>
@@ -9920,19 +9922,19 @@ in pgModeler&apos;s graphical interface. All available options are described bel
     </message>
     <message>
         <source>Current zoom factor</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Fator atual de zoom</translation>
     </message>
     <message>
         <source>Currently selected object(s)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Objeto (s) selecionado (s) no momento</translation>
     </message>
     <message>
         <source>Dimensions of the selected object(s)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dimensões do (s) objeto (s) selecionado (s)</translation>
     </message>
     <message>
         <source>No selection</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nanhuma seleção</translation>
     </message>
     <message>
         <source>N/A</source>
@@ -9982,15 +9984,15 @@ in pgModeler&apos;s graphical interface. All available options are described bel
     </message>
     <message>
         <source>Owner Col.:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Proprietário Col.:</translation>
     </message>
     <message>
         <source>Defualt values:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Valores padrão:</translation>
     </message>
     <message>
         <source>User defined</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Usuário definido</translation>
     </message>
 </context>
 <context>
@@ -10288,7 +10290,7 @@ in pgModeler&apos;s graphical interface. All available options are described bel
     </message>
     <message>
         <source>In demonstration version tables can have only `%1&apos; instances of each child object type or ancestor tables! You&apos;ve reach this limit for the type: `%2&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Na versão de demonstração, as tabelas podem ter apenas instâncias `%1&apos; de cada tipo de objeto filho ou tabelas ancestrais! Você atingiu este limite para o tipo: `%2&apos;</translation>
     </message>
 </context>
 <context>
@@ -10443,7 +10445,7 @@ in pgModeler&apos;s graphical interface. All available options are described bel
     <message>
         <source>
 Relationship: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Relacionamento: %1</translation>
     </message>
 </context>
 <context>
@@ -10628,27 +10630,27 @@ Relationship: %1</source>
     <name>TagWidget</name>
     <message>
         <source>Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Cores</translation>
     </message>
     <message>
         <source>Body:</source>
-        <translation type="unfinished"></translation>
+        <translation>Corpo:</translation>
     </message>
     <message>
         <source>Title:</source>
-        <translation type="unfinished"></translation>
+        <translation>Título:</translation>
     </message>
     <message>
         <source>Schema name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome do esquema:</translation>
     </message>
     <message>
         <source>Table name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome da tabela:</translation>
     </message>
     <message>
         <source>Extended body:</source>
-        <translation type="unfinished"></translation>
+        <translation>Copro estendido:</translation>
     </message>
 </context>
 <context>
@@ -10682,11 +10684,11 @@ Relationship: %1</source>
     </message>
     <message>
         <source>Font:</source>
-        <translation type="unfinished">Fonte:</translation>
+        <translation>Fonte:</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Texto</translation>
     </message>
     <message>
         <source>pt</source>
@@ -10694,7 +10696,7 @@ Relationship: %1</source>
     </message>
     <message>
         <source>Color:</source>
-        <translation type="unfinished"></translation>
+        <translation>Cor:</translation>
     </message>
 </context>
 <context>
@@ -11217,27 +11219,27 @@ Relationship: %1</source>
     <name>WelcomeWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Formulário</translation>
+        <translation>Formulário</translation>
     </message>
     <message>
         <source>New model</source>
-        <translation type="unfinished"></translation>
+        <translation>Novo modelo</translation>
     </message>
     <message>
         <source>Open model</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir modelo</translation>
     </message>
     <message>
         <source>Sample models</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelos de exemplo</translation>
     </message>
     <message>
         <source>Recent models</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelos recentes</translation>
     </message>
     <message>
         <source>Last session</source>
-        <translation type="unfinished"></translation>
+        <translation>Ultima sessão</translation>
     </message>
 </context>
 </TS>
